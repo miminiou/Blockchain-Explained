@@ -15,8 +15,8 @@ let footer = `<footer>
 		<nav>
 			<ul>
 				<li><a class="icon mail" href="mailto:yniou@andrew.cmu.edu"></a></li>
-				<li><a class="icon phone" href="mailto:yniou@andrew.cmu.edu"></a></li>
-				<li><a class="icon maps" href="google.maps.com"></a></li>
+				<li><a class="icon phone" href="tel:1-123-456-7890"></a></li>
+				<li><a class="icon maps" href="https://maps.google.com/maps?ll=40.442675,-79.942723&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=5000%20Forbes%20Ave%20Pittsburgh%2C%20PA%2015213"></a></li>
 			</ul>
 		</nav>
 		<!-- copyright -->

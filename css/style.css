@@ -121,6 +121,7 @@ footer p.copyright {
 	display: block;
 	width: 300px;
 	margin: 0px auto;
+	text-align: center;
 }
 
 .icon.mail {
