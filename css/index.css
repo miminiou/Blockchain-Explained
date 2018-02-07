@@ -1,0 +1,78 @@
+header {
+	position: absolute;
+	z-index: 1;
+	width: 100%;
+	background: none;
+}
+
+.content {
+	
+}
+
+#introduction {
+	padding-top: 100px;
+	overflow: auto;
+	height: 600px;
+	background-image: url("../images/Blockchain1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+	text-align: center;
+}
+
+blockquote {
+	font-family: "Open Sans", serif;
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 200%;
+}
+
+#intro-text {
+	padding: 120px 0px;
+}
+
+.logo.blockchain-explained {
+	background-image: url("../images/logo.svg");
+	margin: 0px 30px;
+	width: 300px;
+	height: 100%;
+}
+
+#features {
+	margin: 30px;
+	color: #6b6b6b;
+}
+
+.icon.secure {
+	background-image: url("../images/secure-icon.svg");
+	width: 40px;
+	height: 40px;
+}
+
+.icon.fast {
+	background-image: url("../images/fast-icon.svg");
+	width: 50px;
+	height: 50px;
+}
+
+.icon.cheap {
+	background-image: url("../images/cheap-icon.svg");
+	width: 40px;
+	height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
