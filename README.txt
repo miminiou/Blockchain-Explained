@@ -1,4 +1,4 @@
-This is the directory for a website called "Blockchain, Explained" which can be visited at miminiou.github.io/blockchain-explained
+This is the directory for a website called "Blockchain, Explained" which can be visited at https://miminiou.github.io/Blockchain-Explained
 
 In this main file ("Blockchain") there are three html pages for each web page, a folder for images, a folder for css files, and a folder for javascript files. As we haven't gone over Javascript yet, there are no JS files except for one script that lets me use the same header and footer code for all pages on the site. In the css folder, there is a file called style.css, which is the sheet for global style rules. The other files are specific style rules for each page.
 
