@@ -2,6 +2,26 @@ This is the directory for a website called "Blockchain, Explained" which can be 
 
 In this main file ("Blockchain") there are three html pages for each web page, a folder for images, a folder for css files, and a folder for javascript files. As we haven't gone over Javascript yet, there are no JS files except for one script that lets me use the same header and footer code for all pages on the site. In the css folder, there is a file called style.css, which is the sheet for global style rules. The other files are specific style rules for each page.
 
+Sitemap
+→ Home
+	Quote
+	Brief overview about the impact of blockchain technology.
+→ How it Works
+	Table of Contents Sidebar
+	What is a blockchain?
+	How does it work?
+	Why is it useful?
+	Video
+	Glossary
+→ Applications
+	Table of Contents Sidebar
+	Cryptocurrency
+	Table of current crypto prices
+	Digital Identity
+	Online Voting
+	xternal links in each section to related articles
+
+
 References for information:
 https://www.coindesk.com/information/what-is-a-distributed-ledger/
 https://www.dailydot.com/debug/what-is-blockchain-explained/
