@@ -27,13 +27,6 @@ blockquote {
 	padding: 120px 0px;
 }
 
-.logo.blockchain-explained {
-	background-image: url("../images/logo.svg");
-	margin: 0px 30px;
-	width: 300px;
-	height: 100%;
-}
-
 #features {
 	margin: 30px;
 	color: #6b6b6b;
