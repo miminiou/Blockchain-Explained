@@ -1,11 +1,14 @@
 body {
 	margin: 0;
 }
+.content {
+	margin: 70px 0;
+}
 .container {
 	margin: 0 auto;
-	max-width: 950px;
+	max-width: 750px;
 }
-.column {
+#features .column {
     display: table-cell;
     width: 33.33%;
 }
@@ -14,10 +17,37 @@ body {
 	width: 100%;
     display: table;
 }
+.toc {
+	position: fixed;
+	font-size: 14px;
+	left: 25px;
+	top: 176px;
+}
+
+.toc li {
+	display: block;
+	text-align: left;
+}
+
+.toc a {
+	color: #021929;
+	text-decoration: none;
+	line-height: 23px;
+}
+.icon.top {
+	position: fixed;
+	background-image: url("../images/top-icon.svg");
+	width: 120px;
+	height: 60px;
+	bottom: 30px;
+	right: 50px;
+}
 ol, ul {
-	padding: 30px;
 	margin: 0px auto 0px auto;
 	text-align: right;
+}
+header ul {
+	padding: 30px;
 }
 li {
 	display: inline;
@@ -36,6 +66,15 @@ header, footer {
 	margin: 0px 0px;
 	background-color: #021929;
 	color: #ffffff;
+}
+.section > p,
+.section > dl,
+.section h4 {
+	line-height: 25px;
+	padding: 0 0 0 50px;
+}
+.section:not(:first-child) {
+	margin: 50px 0 0;
 }
 .divider.white {
 	background-color: white;
